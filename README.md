@@ -10,6 +10,6 @@ Welcome to the teacher's notes for [AI Avenue](https://aiavenue.show). Here you 
 
 ### Apps
 - 👉 [Talk to the Hand](https://talk-to-the-hand.aiavenue.show): Explore converstational AI by talking with Yorick's new voice from [ElevenLabs](https://elevenlabs.io)
-- 👉 [Speak Easier](https://speak-easier.aiavenue.show): Translate what you say in your own voice using [ElevenLabs Dubbing API]([https://elevenlabs.io/docs/api-reference/dubbing/create)
+- 👉 [Speak Easier](https://speak-easier.aiavenue.show): Translate what you say in your own voice using [ElevenLabs Dubbing API](https://elevenlabs.io/docs/api-reference/dubbing/create)
 
 
