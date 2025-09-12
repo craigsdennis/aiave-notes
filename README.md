@@ -1,4 +1,4 @@
-# AI Avenue Notes
+# 👨‍🏫 AI Avenue Teacher Notes
 
 👋 Hey there! 
 
@@ -16,7 +16,7 @@ Trailer
 
 ## Episode 1: AI Voice
 
-[<img src="https://img.youtube.com/vi/TQw0emgZHQI/0.jpg">](https://youtu.be/TQw0emgZHQI "AI Voice: I Tried to Make My Robot Hand Talk | AI Avenue Ep 1")
+[<img src="https://img.youtube.com/vi/j15hF2s5UxI/0.jpg">](https://youtu.be/j15hF2s5UxI "AI Voice: I Tried to Make My Robot Hand Talk | AI Avenue Ep 1")
 
 ### Apps - Go out and touch AI
 - 👉 [Talk to the Hand](https://talk-to-the-hand.aiavenue.show): Explore conversational AI by talking with Yorick's new voice from [ElevenLabs](https://elevenlabs.io)
@@ -24,5 +24,24 @@ Trailer
 
 ### Tutorials - Learn to Build
 
-- 👨‍💻👩‍💻 [Deploy a Conversational AI Agent](https://youtu.be/YFWkYzjT7x0)
-- 👨‍💻👩‍💻 [Create an AI Wrapper for the ElevenLabs Dubbing API](https://youtu.be/x8GZMwSq5bY)
+#### Deploy a Conversational AI Agent
+
+[<img src="https://img.youtube.com/vi/YFWkYzjT7x0/0.jpg">](https://youtu.be/YFWkYzjT7x0 "Deploy a Conversational AI Agent")
+
+**Links**
+- [Code Repository on GitHub](https://github.com/craigsdennis/ai-ave-talk-to-the-hand) 
+- [workers.new - Workers Playground](https://workers.new)
+- [Workers AI Playground](https://playground.ai.cloudflare.com)
+- [ElevenLabs](https://elevenlabs.io)
+
+
+🙏 ElevenLabs has given the first 3,000 of you [one free month of creator](https://elevenlabs.io/app/agents?coupon=CF_AI_AVENUE) tell [Thor <@thorwebdev>](https://x.com/thorwebdev) thank you!
+
+#### Create an AI Wrapper for ElevenLabs Dubbing API (Speak Easier)
+
+[<img src="https://img.youtube.com/vi/x8GZMwSq5bY/0.jpg">](https://youtu.be/x8GZMwSq5bY "Create an AI Wrapper for ElevenLabs Dubbing API")
+
+
+💪🚀 You got this!
+
+[@craigsdennis](https://x.com/craigsdennis)
