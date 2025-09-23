@@ -52,7 +52,6 @@ Trailer
 ### Tutorials - Learn to Build
 
 #### Read concert posters using Structured Outputs and Optical Character Recognition 
-https://youtu.be/z-GaojKt5xc
 
 [<img src="https://img.youtube.com/vi/z-GaojKt5xc/0.jpg">](https://youtu.be/z-GaojKt5xc "Read concert posters using Structured Outputs and Optical Character Recognition")
 
