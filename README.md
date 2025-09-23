@@ -42,6 +42,24 @@ Trailer
 [<img src="https://img.youtube.com/vi/x8GZMwSq5bY/0.jpg">](https://youtu.be/x8GZMwSq5bY "Create an AI Wrapper for ElevenLabs Dubbing API")
 
 
+## Episode 2: Vision
+
+[<img src="https://img.youtube.com/vi/xp4Z_ZqP4Ck/0.jpg">](https://youtu.be/xp4Z_ZqP4Ck "Computer Vision: AI Can See Clearly Now | AI Avenue Ep 2")
+
+### Apps - Go out and touch AI
+- 👉 [Band Extractor](https://extractor.aiavenue.show): Explore Computer Vision using Structured Outputs and OCR (Optical Character Recognition) to extract bands and venues from concert posters
+
+### Tutorials - Learn to Build
+
+#### Read concert posters using Structured Outputs and Optical Character Recognition 
+https://youtu.be/z-GaojKt5xc
+
+[<img src="https://img.youtube.com/vi/z-GaojKt5xc/0.jpg">](https://youtu.be/z-GaojKt5xc "Read concert posters using Structured Outputs and Optical Character Recognition")
+
+#### Use the Agents SDK to listen to concert posters
+
+[<img src="https://img.youtube.com/vi/yQCWCWTGnDM/0.jpg">](https://youtu.be/yQCWCWTGnDM "Use the Agents SDK to listen to concert posters")
+
 💪🚀 You got this!
 
 [@craigsdennis](https://x.com/craigsdennis)
