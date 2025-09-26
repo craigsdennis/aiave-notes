@@ -59,6 +59,34 @@ Trailer
 
 [<img src="https://img.youtube.com/vi/yQCWCWTGnDM/0.jpg">](https://youtu.be/yQCWCWTGnDM "Use the Agents SDK to listen to concert posters")
 
+## Episode 3: Thinking
+
+[<img src="https://img.youtube.com/vi/0GcVU3R5_qE/0.jpg">](https://youtu.be/0GcVU3R5_qE "Is AI REALLY thinking?!")
+
+### Apps - Go out and touch AI
+
+👉 - [Chatty](https://chatty.aiavenue.show) A basic chatbot that you can control and change the personality by using what is known as a System Prompt. English is the hottest new programming language, give it a spin! (Check out the tutorial below to see how he did it!)
+
+👉 - [Fistful of Knowledge](https://fistful-of-knowledge.aiavenue.show) - Yorick designed a blog where he does deep research to show why he is so appreciative of human creativitiy and ingenuity. (Check out the tutorials below to see how he did it!)
+
+### Tutorials
+
+#### Build an AI Chat app with configurable personality from scratch
+
+[<img src="https://img.youtube.com/vi/ne8J0WnGjCQ/0.jpg">](https://youtu.be/ne8J0WnGjCQ "Build an AI Chat app with configurable personality from scratch | AI Ave Ep 3")
+
+- 📚 [Install Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- 📚 [Install Visual Studio Code](https://code.visualstudio.com/download)
+- 📚 [Install code command line](https://code.visualstudio.com/docs/setup/mac)
+- 🍿 [Developer Fundamentals: Terminal](https://www.youtube.com/watch?v=lZ7Kix9bjPI)
+- 🍿 [freeCodeCamp - Introduction to APIs](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
+- ⬇️ [HTTPie CLI](https://httpie.io/cli)
+
+#### Use AI to explore existing codebases
+
+[<img src="https://img.youtube.com/vi/s7664j-QPLs/0.jpg">](https://youtu.be/s7664j-QPLs "Use AI to explore existing codebases")
+
+
 💪🚀 You got this!
 
 [@craigsdennis](https://x.com/craigsdennis)
