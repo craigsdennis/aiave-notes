@@ -69,7 +69,7 @@ Trailer
 
 👉 - [Fistful of Knowledge](https://fistful-of-knowledge.aiavenue.show) - Yorick designed a blog where he does deep research to show why he is so appreciative of human creativitiy and ingenuity. (Check out the tutorials below to see how he did it!)
 
-### Tutorials
+### Tutorials - Learn to Build
 
 #### Build an AI Chat app with configurable personality from scratch
 
@@ -86,6 +86,8 @@ Trailer
 
 [<img src="https://img.youtube.com/vi/s7664j-QPLs/0.jpg">](https://youtu.be/s7664j-QPLs "Use AI to explore existing codebases")
 
+- 📚 [Workflows](https://developers.cloudflare.com/workflows)
+- 📚 [D1](https://developers.cloudflare.com/d1)
 
 💪🚀 You got this!
 
