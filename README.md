@@ -33,7 +33,7 @@ Trailer
 - [workers.new - Workers Playground](https://workers.new)
 - [Workers AI Playground](https://playground.ai.cloudflare.com)
 - [ElevenLabs](https://elevenlabs.io)
-
+- [ElevenLabs Widget Tutorial](https://www.youtube.com/watch?v=XweA70b45Ws&list=PL0p_X3zznhlNfieOUQnxLMrrRersZBqB-&index=3)
 
 🙏 ElevenLabs has given the first 3,000 of you [one free month of creator](https://elevenlabs.io/app/agents?coupon=CF_AI_AVENUE) tell [Thor <@thorwebdev>](https://x.com/thorwebdev) thank you!
 
