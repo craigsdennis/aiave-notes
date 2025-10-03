@@ -89,6 +89,26 @@ Trailer
 - 📚 [Workflows](https://developers.cloudflare.com/workflows)
 - 📚 [D1](https://developers.cloudflare.com/d1)
 
+
+## Episode 4: Learning
+
+[<img src="https://img.youtube.com/vi/0GcVU3R5_qE/0.jpg">](https://youtu.be/0GcVU3R5_qE "AI Learning: It's copying everything we do!!! | AI Avenue: Ep 4")
+
+### Apps - Go out and touch AI
+
+👉 - [CineMarketer](https://cinemarketer.aiavenue.show) Generate a movie description, tagline, poster, and even reviews just from a title. Use this Hollywood Agent to learn about AI agents
+
+### Tutorials - Learn to Build
+
+#### Build a Movie Marketing Simulator AI Agent
+
+[<img src="https://img.youtube.com/vi/1UOMNBhDqnw/0.jpg">](https://youtu.be/1UOMNBhDqnw "Build a Movie Marketing Simulator AI Agent")
+
+- 📚 [Agents](https://developers.cloudflare.com/agents)
+- 👨‍💻👩‍💻 [Agents SDK](https://github.com/cloudflare/agents)
+
+---
+
 💪🚀 You got this!
 
 [@craigsdennis](https://x.com/craigsdennis)
