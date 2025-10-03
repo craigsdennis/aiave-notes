@@ -106,6 +106,7 @@ Trailer
 
 - 📚 [Agents](https://developers.cloudflare.com/agents)
 - 👨‍💻👩‍💻 [Agents SDK](https://github.com/cloudflare/agents)
+- 📚 [Connect to GitHub with ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 ---
 
