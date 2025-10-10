@@ -30,6 +30,7 @@ Trailer
 
 **Links**
 - [Code Repository on GitHub](https://github.com/craigsdennis/ai-ave-talk-to-the-hand) 
+- [Workers](https://workers.cloudflare.com)
 - [workers.new - Workers Playground](https://workers.new)
 - [Workers AI Playground](https://playground.ai.cloudflare.com)
 - [ElevenLabs](https://elevenlabs.io)
@@ -107,6 +108,25 @@ Trailer
 - 📚 [Agents](https://developers.cloudflare.com/agents)
 - 👨‍💻👩‍💻 [Agents SDK](https://github.com/cloudflare/agents)
 - 📚 [Connect to GitHub with ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+## Episode 5: Doing
+
+https://www.youtube.com/watch?v=_ZtgIRFgPdU
+
+[<img src="https://img.youtube.com/vi/_ZtgIRFgPdU/0.jpg">](https://youtu.be/_ZtgIRFgPdU "Robots are finally here, now I don't need to the dishes...right?! | AI Avenue Ep 5")
+
+
+### Apps - Go out and touch AI
+
+👉 - [Dishaster](https://dishaster.aiavenue.show) Doing dishes as a robot is more challening than it looks. Check out this game I vibe coded.
+
+### Tutorials - Learn to Build
+
+#### Vibe Code a Physics based Video Game about Robots doing Dishes
+
+[<img src="https://img.youtube.com/vi/uQuzlAne7eE/0.jpg">](https://youtu.be/uQuzlAne7eE "Dishaster - Vibe Code a Physics based Video Game about Robots doing Dishes | AI Avenue Tutorials")
+
+- 📚 [Workers](https://workers.cloudflare.com)
 
 ---
 
