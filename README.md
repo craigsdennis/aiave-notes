@@ -93,7 +93,7 @@ Trailer
 
 ## Episode 4: Learning
 
-[<img src="https://img.youtube.com/vi/0GcVU3R5_qE/0.jpg">](https://youtu.be/0GcVU3R5_qE "AI Learning: It's copying everything we do!!! | AI Avenue: Ep 4")
+[<img src="https://img.youtube.com/vi/XfFtUmEta7s/0.jpg">](https://youtu.be/XfFtUmEta7s "AI Learning: It's copying everything we do!!! | AI Avenue: Ep 4")
 
 ### Apps - Go out and touch AI
 
@@ -127,6 +127,16 @@ https://www.youtube.com/watch?v=_ZtgIRFgPdU
 [<img src="https://img.youtube.com/vi/uQuzlAne7eE/0.jpg">](https://youtu.be/uQuzlAne7eE "Dishaster - Vibe Code a Physics based Video Game about Robots doing Dishes | AI Avenue Tutorials")
 
 - 📚 [Workers](https://workers.cloudflare.com)
+
+
+## Episode 6: Smell
+
+[<img src="https://img.youtube.com/vi/6_UFKqVR9xw/0.jpg">](https://youtu.be/6_UFKqVR9xw "AI: What's the future smell like? | AI Avenue Ep 6")
+
+### Apps - Go out and touch AI
+
+👉 - [AI Literacy Quiz](https://quiz.aiavenue.show) Lizzie and I vibecoded this from a form. How'd you do? 
+
 
 ---
 
